@@ -8,25 +8,32 @@ That’s why we will utilize graph database technology to run a mission-critical
 1. Create graph based repository to store IAM information metadata
 2. Integrate for Authorization - Verity and alert approver and owners for any access request
 3. Generate Audit Reports using graph IAM Repository
+4. Detect 
+   1. Unauthorized access - by tracing user through groups, roles and other attributes.
+   2. Lateral Movement - by checking the access route to the authorized machine
+5. Generate a dynamic level of trust
 
 **Model-Entities**
 1. Users
 2. Role
 3. Department
-4. User Group
-5. Machine
-6. Machine Group
+4. Region
+5. User Group
+6. Machine
+7. Machine Group
 
 **Model-Relationships**
 1. User -*MANAGES*-> User
 2. User -*HAS_ROLE*-> Role
 3. User -*BELONGS_TO*-> Department
-4. User -*MEMBER_OF*-> User Group
-5. User -*HAS_ACCESS*-> Machine
-6. User -*HAS_ACCESS*-> Machine Group
-7. User -*OWNS*-> Machine
-8. User -*OWNS*-> Machine Group
-9. Machine -*MEMBER_OF*-> Machine Group
+4. User -*FROM*-> Region
+5. User -*MEMBER_OF*-> User Group
+6. User -*HAS_ACCESS*-> Machine
+7. User -*HAS_ACCESS*-> Machine Group
+8. User -*OWNS*-> Machine
+9. User -*OWNS*-> Machine Group
+10. Machine -*MEMBER_OF*-> Machine Group
+11. Machine -CONNECTS-> Machine
 
 **Steps**
 1. Generate near realistic enterprise User information consisting of different departments and respective hierarchical roles. This information will be saved to an *User.csv*
