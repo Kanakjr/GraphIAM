@@ -8,14 +8,14 @@ fake_users_count = 100
 fake = Faker('en_IN')
 domain = 'kanakjr.in'
 
-departments = ['HR','IT','SUPPORT','SECURITIY','MANAGEMENT']
+departments = ['HR','IT','SUPPORT','SECURITY','MANAGEMENT']
 departments_distrib = [5,30,35,20,10] 
 departments_distrib_dict = {departments[i]: departments_distrib[i] for i in range(len(departments))} 
 
 roles = {'IT':['Developer','Tester','Team Lead'],
          'SUPPORT':['L0','L1','l2'],
          'HR':['HR Head','HR'],
-         'SECURITIY':['SOC Monitor','Analyst','Pentester'],
+         'SECURITY':['SOC Monitor','Analyst','Pentester'],
          'MANAGEMENT':['Product Owner','Delivery Head','CISO','CEO']}
 roles_limit = {'CEO':1,'CISO':1,'HR Head':1,'Delivery Head':1}
 roles_limit['Team Lead'] = int(departments_distrib_dict['IT']/10) # 10% lead in total IT department
@@ -67,8 +67,9 @@ for dept,dist in zip(departments,departments_distrib):
         profile = {'firstname':firstname,'lastname':lastname,'fullname':fullname,
         'userid':userid,'empid':empid,
         #'birthdate':birthdate,
-        'department':department,'role':role,
-        'manages':[],'managedby':[]
+        'department':department,'role':role
+        #,'manages':[],
+        ,'managedby':[]
         }
         profiles_lst[empid] = profile
 
@@ -102,22 +103,23 @@ for manages,managedby in manages.items():
     
     for m,mb_lst in zip(manages_user_lst,partition_managedby_user_lst):
         for mb in mb_lst:
-            profiles_lst[m]['manages'].append(mb)
+            #profiles_lst[m]['manages'].append(mb)
             profiles_lst[mb]['managedby'].append(m)
             #print(m,mb)
 
-with open('users.json', 'w') as fp:
-   json.dump(profiles_lst, fp)
+# with open('users.json', 'w') as fp: json.dump(profiles_lst, fp)
 
 csv_file = "Users.csv"
-csv_columns = ['empid','firstname','lastname','fullname','userid','department','role','manages','managedby']
+csv_columns = ['empid','firstname','lastname','fullname','userid','department','role',
+# 'manages',
+'managedby']
 
 try:
     with open(csv_file, 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
         writer.writeheader()
         for empid,data in profiles_lst.items():
-            data['manages'] = ';'.join(data['manages'])
+            #data['manages'] = ';'.join(data['manages'])
             data['managedby'] = ';'.join(data['managedby'])
             writer.writerow(data)
 except IOError:
