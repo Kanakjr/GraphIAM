@@ -2,13 +2,13 @@ import collections
 import csv
 import json
 import random
-
 from faker import Faker
-
 import config
 
 #Import necessary  config data
 fake_users_count         = config.fake_users_count
+csv_file                 = config.csv_file
+csv_columns              = config.csv_columns
 domain                   = config.domain
 departments              = config.departments
 departments_distrib      = config.departments_distrib
@@ -17,6 +17,7 @@ roles                    = config.roles
 roles_limit              = config.roles_limit
 roles_assigned           = []
 manages                  = config.manages
+profiles_lst             = {}
 
 fake = Faker('en_IN')
 
@@ -38,7 +39,6 @@ def gen_role(department):
     role_choices = set(roles[department])-set(roles_assigned)
     return random.choice(list(role_choices))
 
-profiles_lst = {}
 for dept,dist in zip(departments,departments_distrib):
     dept_users_count = int(fake_users_count*dist/100)
     #print(dept,dept_users_count)
@@ -60,7 +60,6 @@ for dept,dist in zip(departments,departments_distrib):
         profiles_lst[empid] = profile
 
 print(f'Generated {len(profiles_lst)} number of profiles')
-
 profiles_lst_dept = [value["department"] for key,value in profiles_lst.items()]
 profiles_lst_roles = [value["role"] for key,value in profiles_lst.items()]
 print(f'\nDepartment: {collections.Counter(profiles_lst_dept).most_common()}')
@@ -88,11 +87,6 @@ for manages,managedby in manages.items():
             #print(m,mb)
 
 # with open('users.json', 'w') as fp: json.dump(profiles_lst, fp)
-
-csv_file = "Users.csv"
-csv_columns = ['empid','firstname','lastname','fullname','userid','department','role',
-# 'manages',
-'managedby']
 
 try:
     with open(csv_file, 'w') as csvfile:

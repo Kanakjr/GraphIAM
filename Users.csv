@@ -1,101 +1,101 @@
 empid,firstname,lastname,fullname,userid,department,role,managedby
-937737,Laura,Walsh,Laura Walsh,laura_walsh@kanakjr.in,HR,HR Head,933212
-827849,Melinda,Blevins,Melinda Blevins,melinda_blevins@kanakjr.in,HR,HR,937737
-170592,Stephen,Smith,Stephen Smith,stephen_smith@kanakjr.in,HR,HR,937737
-651664,William,Elliott,William Elliott,william_elliott@kanakjr.in,HR,HR,937737
-986385,Timothy,Jones,Timothy Jones,timothy_jones@kanakjr.in,HR,HR,937737
-152828,Antonio,Shelton,Antonio Shelton,antonio_shelton@kanakjr.in,IT,Team Lead,027914
-967062,Rebecca,Molina,Rebecca Molina,rebecca_molina@kanakjr.in,IT,Team Lead,319444
-298972,Sarah,Gray,Sarah Gray,sarah_gray@kanakjr.in,IT,Team Lead,829006
-050071,Timothy,Roberts,Timothy Roberts,timothy_roberts@kanakjr.in,IT,Tester,152828
-179979,Mark,Murphy,Mark Murphy,mark_murphy@kanakjr.in,IT,Tester,967062
-150091,Jamie,Gomez,Jamie Gomez,jamie_gomez@kanakjr.in,IT,Developer,298972
-487774,Jessica,Jones,Jessica Jones,jessica_jones@kanakjr.in,IT,Developer,298972
-280147,Kyle,Frye,Kyle Frye,kyle_frye@kanakjr.in,IT,Tester,967062
-000391,Kimberly,Walsh,Kimberly Walsh,kimberly_walsh@kanakjr.in,IT,Developer,152828
-983402,Crystal,Carey,Crystal Carey,crystal_carey@kanakjr.in,IT,Developer,967062
-772148,Mary,Moreno,Mary Moreno,mary_moreno@kanakjr.in,IT,Developer,152828
-041006,Shannon,Gonzalez,Shannon Gonzalez,shannon_gonzalez@kanakjr.in,IT,Developer,152828
-325602,Aaron,Thompson,Aaron Thompson,aaron_thompson@kanakjr.in,IT,Developer,298972
-779198,Amy,Woods,Amy Woods,amy_woods@kanakjr.in,IT,Tester,152828
-594059,Jorge,Wright,Jorge Wright,jorge_wright@kanakjr.in,IT,Tester,298972
-884019,Gregory,Anderson,Gregory Anderson,gregory_anderson@kanakjr.in,IT,Tester,967062
-960694,Paula,Hunter,Paula Hunter,paula_hunter@kanakjr.in,IT,Tester,967062
-756059,Teresa,Black,Teresa Black,teresa_black@kanakjr.in,IT,Developer,298972
-189598,Carrie,Johnson,Carrie Johnson,carrie_johnson@kanakjr.in,IT,Developer,967062
-775822,Mark,Lawrence,Mark Lawrence,mark_lawrence@kanakjr.in,IT,Tester,967062
-069843,Donna,Butler,Donna Butler,donna_butler@kanakjr.in,IT,Tester,298972
-032060,Christopher,Rivera,Christopher Rivera,christopher_rivera@kanakjr.in,IT,Developer,967062
-201540,Jacqueline,Holder,Jacqueline Holder,jacqueline_holder@kanakjr.in,IT,Developer,152828
-180306,Amanda,Chen,Amanda Chen,amanda_chen@kanakjr.in,IT,Tester,298972
-319760,Laura,Roberts,Laura Roberts,laura_roberts@kanakjr.in,IT,Developer,152828
-503467,Kimberly,Harris,Kimberly Harris,kimberly_harris@kanakjr.in,IT,Developer,152828
-733669,Kenneth,Beasley,Kenneth Beasley,kenneth_beasley@kanakjr.in,IT,Tester,298972
-421058,Juan,Thompson,Juan Thompson,juan_thompson@kanakjr.in,IT,Tester,152828
-557784,Bryan,Nicholson,Bryan Nicholson,bryan_nicholson@kanakjr.in,IT,Tester,967062
-379179,Joshua,Marshall,Joshua Marshall,joshua_marshall@kanakjr.in,IT,Developer,298972
-898287,Kimberly,Williams,Kimberly Williams,kimberly_williams@kanakjr.in,SUPPORT,L1,051855
-632381,Jacob,Smith,Jacob Smith,jacob_smith@kanakjr.in,SUPPORT,L0,051855
-377574,Elizabeth,Burke,Elizabeth Burke,elizabeth_burke@kanakjr.in,SUPPORT,L0,051855
-802586,Zachary,Anderson,Zachary Anderson,zachary_anderson@kanakjr.in,SUPPORT,L0,051855
-898930,Joseph,Yoder,Joseph Yoder,joseph_yoder@kanakjr.in,SUPPORT,L1,051855
-362194,Scott,Melendez,Scott Melendez,scott_melendez@kanakjr.in,SUPPORT,l2,051855
-143024,Brittney,Sanchez,Brittney Sanchez,brittney_sanchez@kanakjr.in,SUPPORT,l2,051855
-558981,Tara,Wilkinson,Tara Wilkinson,tara_wilkinson@kanakjr.in,SUPPORT,l2,051855
-357121,Courtney,Richardson,Courtney Richardson,courtney_richardson@kanakjr.in,SUPPORT,L1,051855
-982156,Thomas,Long,Thomas Long,thomas_long@kanakjr.in,SUPPORT,L0,051855
-775277,Sally,Ortega,Sally Ortega,sally_ortega@kanakjr.in,SUPPORT,L0,051855
-583657,Luis,Higgins,Luis Higgins,luis_higgins@kanakjr.in,SUPPORT,L1,051855
-181052,Jessica,Hawkins,Jessica Hawkins,jessica_hawkins@kanakjr.in,SUPPORT,L1,051855
-782303,Samuel,Frazier,Samuel Frazier,samuel_frazier@kanakjr.in,SUPPORT,L0,051855
-404697,Regina,Ramirez,Regina Ramirez,regina_ramirez@kanakjr.in,SUPPORT,L0,051855
-540203,Nancy,Hall,Nancy Hall,nancy_hall@kanakjr.in,SUPPORT,L0,051855
-886420,Preston,Miller,Preston Miller,preston_miller@kanakjr.in,SUPPORT,l2,051855
-305252,Kevin,Jimenez,Kevin Jimenez,kevin_jimenez@kanakjr.in,SUPPORT,l2,051855
-927650,Calvin,Friedman,Calvin Friedman,calvin_friedman@kanakjr.in,SUPPORT,l2,051855
-519970,Henry,Byrd,Henry Byrd,henry_byrd@kanakjr.in,SUPPORT,L1,051855
-281395,Lucas,Harvey,Lucas Harvey,lucas_harvey@kanakjr.in,SUPPORT,L0,051855
-261254,Patrick,Rosales,Patrick Rosales,patrick_rosales@kanakjr.in,SUPPORT,L1,051855
-852142,Diane,Robles,Diane Robles,diane_robles@kanakjr.in,SUPPORT,l2,051855
-013357,Kyle,Dean,Kyle Dean,kyle_dean@kanakjr.in,SUPPORT,L1,051855
-040796,Noah,Pearson,Noah Pearson,noah_pearson@kanakjr.in,SUPPORT,L1,051855
-045703,Mary,Smith,Mary Smith,mary_smith@kanakjr.in,SUPPORT,L1,051855
-021902,Keith,Stewart,Keith Stewart,keith_stewart@kanakjr.in,SUPPORT,L1,051855
-334848,Rickey,Moore,Rickey Moore,rickey_moore@kanakjr.in,SUPPORT,l2,051855
-027491,Jose,Liu,Jose Liu,jose_liu@kanakjr.in,SUPPORT,L0,051855
-947987,Michael,Davis,Michael Davis,michael_davis@kanakjr.in,SUPPORT,L1,051855
-061422,Linda,Ortiz,Linda Ortiz,linda_ortiz@kanakjr.in,SUPPORT,L0,051855
-645274,Monica,Green,Monica Green,monica_green@kanakjr.in,SUPPORT,l2,051855
-618990,Cody,Wilson,Cody Wilson,cody_wilson@kanakjr.in,SUPPORT,l2,051855
-314058,John,Watkins,John Watkins,john_watkins@kanakjr.in,SUPPORT,L0,051855
-399044,Michael,Taylor,Michael Taylor,michael_taylor@kanakjr.in,SUPPORT,L0,051855
-766114,Jennifer,Bates,Jennifer Bates,jennifer_bates@kanakjr.in,SECURITY,Pentester,454593
-180475,Rebecca,Thomas,Rebecca Thomas,rebecca_thomas@kanakjr.in,SECURITY,Analyst,454593
-938432,Gabriel,Wilson,Gabriel Wilson,gabriel_wilson@kanakjr.in,SECURITY,Admins,
-480155,Vanessa,Dunn,Vanessa Dunn,vanessa_dunn@kanakjr.in,SECURITY,Pentester,454593
-506846,Aaron,Beltran,Aaron Beltran,aaron_beltran@kanakjr.in,SECURITY,Admins,
-147222,Robert,Hood,Robert Hood,robert_hood@kanakjr.in,SECURITY,Admins,
-061453,Edward,Smith,Edward Smith,edward_smith@kanakjr.in,SECURITY,Analyst,454593
-496775,Tami,Johnson,Tami Johnson,tami_johnson@kanakjr.in,SECURITY,Analyst,454593
-097282,Jason,Lewis,Jason Lewis,jason_lewis@kanakjr.in,SECURITY,Admins,
-969081,Katie,Wolfe,Katie Wolfe,katie_wolfe@kanakjr.in,SECURITY,Admins,
-344520,Paul,Brooks,Paul Brooks,paul_brooks@kanakjr.in,SECURITY,Analyst,454593
-184427,Jeffrey,Simpson,Jeffrey Simpson,jeffrey_simpson@kanakjr.in,SECURITY,Admins,
-660202,Christopher,Wilson,Christopher Wilson,christopher_wilson@kanakjr.in,SECURITY,Pentester,454593
-703699,Jacqueline,Miller,Jacqueline Miller,jacqueline_miller@kanakjr.in,SECURITY,Admins,
-468121,Phillip,Wolfe,Phillip Wolfe,phillip_wolfe@kanakjr.in,SECURITY,Admins,
-394418,Jeremy,Kim,Jeremy Kim,jeremy_kim@kanakjr.in,SECURITY,Pentester,454593
-810136,William,Cobb,William Cobb,william_cobb@kanakjr.in,SECURITY,Pentester,454593
-844812,Erik,Wallace,Erik Wallace,erik_wallace@kanakjr.in,SECURITY,Pentester,454593
-130781,Wayne,Hernandez,Wayne Hernandez,wayne_hernandez@kanakjr.in,SECURITY,Admins,
-543902,Courtney,Brady,Courtney Brady,courtney_brady@kanakjr.in,SECURITY,Admins,
-933212,Shane,Hampton,Shane Hampton,shane_hampton@kanakjr.in,MANAGEMENT,CEO,
-454593,Peter,Zavala,Peter Zavala,peter_zavala@kanakjr.in,MANAGEMENT,CISO,933212
-051855,Charles,Baird,Charles Baird,charles_baird@kanakjr.in,MANAGEMENT,Delivery Head,933212
-027914,Jeffery,Vaughn,Jeffery Vaughn,jeffery_vaughn@kanakjr.in,MANAGEMENT,Product Owner,933212
-829006,Jill,Williams,Jill Williams,jill_williams@kanakjr.in,MANAGEMENT,Product Owner,933212
-319444,Michael,Miller,Michael Miller,michael_miller@kanakjr.in,MANAGEMENT,Product Owner,933212
-282415,Mark,Snow,Mark Snow,mark_snow@kanakjr.in,MANAGEMENT,Product Owner,933212
-257885,Keith,Thompson,Keith Thompson,keith_thompson@kanakjr.in,MANAGEMENT,Product Owner,933212
-452396,Rachel,Luna,Rachel Luna,rachel_luna@kanakjr.in,MANAGEMENT,Product Owner,933212
-883132,Wanda,Wells,Wanda Wells,wanda_wells@kanakjr.in,MANAGEMENT,Product Owner,933212
+568124,Connie,Hernandez,Connie Hernandez,connie_hernandez@kanakjr.in,HR,HR Head,999993
+904490,Samuel,Lewis,Samuel Lewis,samuel_lewis@kanakjr.in,HR,HR,568124
+709024,Jason,Adams,Jason Adams,jason_adams@kanakjr.in,HR,HR,568124
+265189,Steven,Sutton,Steven Sutton,steven_sutton@kanakjr.in,HR,HR,568124
+691675,Carrie,Mckinney,Carrie Mckinney,carrie_mckinney@kanakjr.in,HR,HR,568124
+231256,Alexandra,Evans,Alexandra Evans,alexandra_evans@kanakjr.in,IT,Team Lead,920330
+022735,Christopher,King,Christopher King,christopher_king@kanakjr.in,IT,Team Lead,670824
+572749,Rebekah,Jennings,Rebekah Jennings,rebekah_jennings@kanakjr.in,IT,Team Lead,939318
+978355,Kim,Cole,Kim Cole,kim_cole@kanakjr.in,IT,Developer,022735
+244888,Lindsay,Mason,Lindsay Mason,lindsay_mason@kanakjr.in,IT,Tester,572749
+354461,Jeffery,Wood,Jeffery Wood,jeffery_wood@kanakjr.in,IT,Developer,572749
+380835,Nicole,Mcdonald,Nicole Mcdonald,nicole_mcdonald@kanakjr.in,IT,Tester,231256
+852464,Alicia,Lucas,Alicia Lucas,alicia_lucas@kanakjr.in,IT,Developer,022735
+562162,Allen,Logan,Allen Logan,allen_logan@kanakjr.in,IT,Tester,231256
+678807,Valerie,Garcia,Valerie Garcia,valerie_garcia@kanakjr.in,IT,Tester,572749
+565262,Melanie,Pope,Melanie Pope,melanie_pope@kanakjr.in,IT,Developer,572749
+761130,William,Watson,William Watson,william_watson@kanakjr.in,IT,Tester,022735
+810140,Christina,Fernandez,Christina Fernandez,christina_fernandez@kanakjr.in,IT,Tester,231256
+100839,Dylan,Cox,Dylan Cox,dylan_cox@kanakjr.in,IT,Tester,022735
+213717,David,Woodard,David Woodard,david_woodard@kanakjr.in,IT,Tester,231256
+251780,Michael,Williamson,Michael Williamson,michael_williamson@kanakjr.in,IT,Tester,022735
+362846,Angel,Ellis,Angel Ellis,angel_ellis@kanakjr.in,IT,Tester,231256
+746234,Amber,Miller,Amber Miller,amber_miller@kanakjr.in,IT,Tester,572749
+389942,Alyssa,Anderson,Alyssa Anderson,alyssa_anderson@kanakjr.in,IT,Tester,231256
+269448,Chelsea,Daniels,Chelsea Daniels,chelsea_daniels@kanakjr.in,IT,Tester,022735
+916843,Peter,Munoz,Peter Munoz,peter_munoz@kanakjr.in,IT,Tester,572749
+122939,John,Cook,John Cook,john_cook@kanakjr.in,IT,Developer,022735
+928550,Denise,Miller,Denise Miller,denise_miller@kanakjr.in,IT,Developer,572749
+383326,Gregory,Rodriguez,Gregory Rodriguez,gregory_rodriguez@kanakjr.in,IT,Tester,572749
+481833,Ralph,Williams,Ralph Williams,ralph_williams@kanakjr.in,IT,Developer,022735
+397366,Christine,Dominguez,Christine Dominguez,christine_dominguez@kanakjr.in,IT,Tester,231256
+737492,Karen,Perry,Karen Perry,karen_perry@kanakjr.in,IT,Developer,231256
+230648,Rhonda,Holland,Rhonda Holland,rhonda_holland@kanakjr.in,IT,Developer,022735
+157570,Robert,Richards,Robert Richards,robert_richards@kanakjr.in,IT,Developer,572749
+543019,David,Morris,David Morris,david_morris@kanakjr.in,IT,Tester,231256
+764789,Steven,Wheeler,Steven Wheeler,steven_wheeler@kanakjr.in,SUPPORT,l2,736690
+133005,William,Mccullough,William Mccullough,william_mccullough@kanakjr.in,SUPPORT,L0,736690
+855214,Nicole,Russell,Nicole Russell,nicole_russell@kanakjr.in,SUPPORT,l2,736690
+142118,Jenna,Jackson,Jenna Jackson,jenna_jackson@kanakjr.in,SUPPORT,L0,736690
+750881,Jill,Fields,Jill Fields,jill_fields@kanakjr.in,SUPPORT,L1,736690
+107567,Daniel,Jones,Daniel Jones,daniel_jones@kanakjr.in,SUPPORT,l2,736690
+749518,Matthew,Wade,Matthew Wade,matthew_wade@kanakjr.in,SUPPORT,L1,736690
+803972,Chelsea,Munoz,Chelsea Munoz,chelsea_munoz@kanakjr.in,SUPPORT,L0,736690
+449553,Jason,Johnson,Jason Johnson,jason_johnson@kanakjr.in,SUPPORT,L1,736690
+936499,Sierra,Horton,Sierra Horton,sierra_horton@kanakjr.in,SUPPORT,L1,736690
+198514,Brandon,Thompson,Brandon Thompson,brandon_thompson@kanakjr.in,SUPPORT,L1,736690
+262866,Patricia,Hart,Patricia Hart,patricia_hart@kanakjr.in,SUPPORT,l2,736690
+900920,Michael,Arnold,Michael Arnold,michael_arnold@kanakjr.in,SUPPORT,l2,736690
+142149,Stephanie,Adams,Stephanie Adams,stephanie_adams@kanakjr.in,SUPPORT,L1,736690
+810109,Troy,Roy,Troy Roy,troy_roy@kanakjr.in,SUPPORT,L0,736690
+072147,James,Miller,James Miller,james_miller@kanakjr.in,SUPPORT,l2,736690
+162983,James,Morris,James Morris,james_morris@kanakjr.in,SUPPORT,L0,736690
+614812,Terri,Martin,Terri Martin,terri_martin@kanakjr.in,SUPPORT,l2,736690
+739719,Amanda,Lang,Amanda Lang,amanda_lang@kanakjr.in,SUPPORT,l2,736690
+274717,Marissa,Martin,Marissa Martin,marissa_martin@kanakjr.in,SUPPORT,L0,736690
+272897,Laurie,Hutchinson,Laurie Hutchinson,laurie_hutchinson@kanakjr.in,SUPPORT,L0,736690
+157938,Christina,Parker,Christina Parker,christina_parker@kanakjr.in,SUPPORT,L1,736690
+107034,Brian,Le,Brian Le,brian_le@kanakjr.in,SUPPORT,L0,736690
+069382,Beverly,Peters,Beverly Peters,beverly_peters@kanakjr.in,SUPPORT,L1,736690
+132537,Frank,Braun,Frank Braun,frank_braun@kanakjr.in,SUPPORT,L0,736690
+847195,Michael,Kim,Michael Kim,michael_kim@kanakjr.in,SUPPORT,L1,736690
+021098,Joseph,Foster,Joseph Foster,joseph_foster@kanakjr.in,SUPPORT,L1,736690
+152400,Matthew,Chapman,Matthew Chapman,matthew_chapman@kanakjr.in,SUPPORT,L0,736690
+894954,Linda,Gibson,Linda Gibson,linda_gibson@kanakjr.in,SUPPORT,l2,736690
+697792,Lisa,Jackson,Lisa Jackson,lisa_jackson@kanakjr.in,SUPPORT,L1,736690
+864105,Caleb,Delgado,Caleb Delgado,caleb_delgado@kanakjr.in,SUPPORT,L0,736690
+326345,Kevin,Taylor,Kevin Taylor,kevin_taylor@kanakjr.in,SUPPORT,L0,736690
+048883,Nicole,Pierce,Nicole Pierce,nicole_pierce@kanakjr.in,SUPPORT,l2,736690
+566083,Anthony,Davis,Anthony Davis,anthony_davis@kanakjr.in,SUPPORT,L1,736690
+618451,Jesus,James,Jesus James,jesus_james@kanakjr.in,SUPPORT,L1,736690
+027028,Theresa,Castillo,Theresa Castillo,theresa_castillo@kanakjr.in,SECURITY,Pentester,369217
+198621,Robert,Keith,Robert Keith,robert_keith@kanakjr.in,SECURITY,Analyst,369217
+489618,Melissa,Norton,Melissa Norton,melissa_norton@kanakjr.in,SECURITY,Admins,
+533309,Jack,Miller,Jack Miller,jack_miller@kanakjr.in,SECURITY,Pentester,369217
+219601,Chad,Russell,Chad Russell,chad_russell@kanakjr.in,SECURITY,Analyst,369217
+764419,Amy,Cooke,Amy Cooke,amy_cooke@kanakjr.in,SECURITY,Pentester,369217
+557842,Natalie,Oliver,Natalie Oliver,natalie_oliver@kanakjr.in,SECURITY,Admins,
+617502,Michelle,Shields,Michelle Shields,michelle_shields@kanakjr.in,SECURITY,Pentester,369217
+945441,Ashley,Hernandez,Ashley Hernandez,ashley_hernandez@kanakjr.in,SECURITY,Pentester,369217
+729467,Sherri,Proctor,Sherri Proctor,sherri_proctor@kanakjr.in,SECURITY,Analyst,369217
+274672,Benjamin,Smith,Benjamin Smith,benjamin_smith@kanakjr.in,SECURITY,Pentester,369217
+901773,Andrew,Winters,Andrew Winters,andrew_winters@kanakjr.in,SECURITY,Admins,
+121761,Robert,Hall,Robert Hall,robert_hall@kanakjr.in,SECURITY,Admins,
+465780,Arthur,Butler,Arthur Butler,arthur_butler@kanakjr.in,SECURITY,Admins,
+253691,Robert,Anthony,Robert Anthony,robert_anthony@kanakjr.in,SECURITY,Pentester,369217
+120231,Wesley,Vargas,Wesley Vargas,wesley_vargas@kanakjr.in,SECURITY,Analyst,369217
+109853,Allison,Nash,Allison Nash,allison_nash@kanakjr.in,SECURITY,Pentester,369217
+701759,Nicholas,Smith,Nicholas Smith,nicholas_smith@kanakjr.in,SECURITY,Admins,
+131512,Christine,Armstrong,Christine Armstrong,christine_armstrong@kanakjr.in,SECURITY,Admins,
+402653,Valerie,Jackson,Valerie Jackson,valerie_jackson@kanakjr.in,SECURITY,Admins,
+999993,Donald,Wheeler,Donald Wheeler,donald_wheeler@kanakjr.in,MANAGEMENT,CEO,
+369217,Austin,Watson,Austin Watson,austin_watson@kanakjr.in,MANAGEMENT,CISO,999993
+736690,Robert,Wright,Robert Wright,robert_wright@kanakjr.in,MANAGEMENT,Delivery Head,999993
+939318,Amanda,Black,Amanda Black,amanda_black@kanakjr.in,MANAGEMENT,Product Owner,999993
+920330,James,Oconnor,James Oconnor,james_oconnor@kanakjr.in,MANAGEMENT,Product Owner,999993
+670824,Jeffrey,Lee,Jeffrey Lee,jeffrey_lee@kanakjr.in,MANAGEMENT,Product Owner,999993
+798904,Curtis,Heath,Curtis Heath,curtis_heath@kanakjr.in,MANAGEMENT,Product Owner,999993
+706238,Stephanie,Campbell,Stephanie Campbell,stephanie_campbell@kanakjr.in,MANAGEMENT,Product Owner,999993
+886496,Laura,Stanley,Laura Stanley,laura_stanley@kanakjr.in,MANAGEMENT,Product Owner,999993
+204143,Anthony,Robinson,Anthony Robinson,anthony_robinson@kanakjr.in,MANAGEMENT,Product Owner,999993
