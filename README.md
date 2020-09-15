@@ -10,7 +10,7 @@ That’s why we will utilize graph database technology to run a mission-critical
 3. Generate Audit Reports using graph IAM Repository
 4. Detect 
    1. **Unauthorized access** - by tracing user through groups, roles and other attributes.
-   2. **Lateral Movement** - by checking the access route to the authorized machine
+   2. **Lateral Movement** - by checking the route used by user to access a machine
 5. Generate a dynamic level of trust
 
 **Model-Entities**
@@ -38,3 +38,4 @@ That’s why we will utilize graph database technology to run a mission-critical
 **Steps**
 1. Generate near realistic enterprise User information consisting of different departments and respective hierarchical roles. This information will be saved to an ***User.csv***
 2. Generate random machine and machine groups and assigning them different owners from the the ***Users.csv***
+3. Import the generated data from CSV into Neo4j using a cypher query. This will create entities and map required relationship between them. With this step our graph based repository for IAM metadata is ready.
