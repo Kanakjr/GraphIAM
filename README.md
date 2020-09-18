@@ -1,5 +1,7 @@
 # GraphIAM
 
+![GraphIAM-Logo](images/logo.png)
+
 Traditionally, identity and access management has been implemented either by using directory services or by building a custom solution inside an application’s backend.
 Hierarchical directory structures, however, can’t cope with the complex dependency structures found in multi-party distributed supply chains. And custom solutions that use non-graph databases to store identify and access data become slow and unresponsive as their datasets grow in size.
 That’s why we will utilize graph database technology to run a mission-critical identity and access management solutions.
