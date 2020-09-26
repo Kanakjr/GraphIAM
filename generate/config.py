@@ -1,9 +1,16 @@
+#User filename
+user_filename = 'Users.csv'
+
 #No of users to create
 fake_users_count = 100
+fake_vms_count   = 500
 
 #CSV Output Details
 csv_file = "Users.csv"
 csv_columns = ['empid','firstname','lastname','fullname','userid','department','role','managedby']
+
+csv_vm_file    = 'VMs.csv'
+csv_vm_columns = ['Name','Owner']
 
 #Organization Domain Name
 domain = 'kanakjr.in'
