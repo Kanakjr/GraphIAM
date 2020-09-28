@@ -1,5 +1,5 @@
--- empid,firstname,lastname,fullname,userid,department,role,manages,managedby
-
+// Import Users.csv 
+// empid,firstname,lastname,fullname,userid,department,role,manages,managedby
 LOAD CSV WITH HEADERS FROM 'file:///Users.csv' AS row
 MERGE (u:User {empId:row.empid, firstname:row.firstname, lastname:row.lastname,
 role:row.role,
@@ -17,3 +17,11 @@ UNWIND row.managedby AS managedby
 MATCH (m:User {empId: managedby })
 MERGE (u)<-[s:MANAGES]-(m)
 
+// Import VMs.csv
+// name,owner
+LOAD CSV WITH HEADERS FROM 'file:///VMs.csv' AS row
+MERGE (v:VM {name:row.name})
+WITH v, row
+UNWIND row.owner AS owner
+MATCH (o:User {empId: owner })
+MERGE (o)-[s:OWNS]->(v)

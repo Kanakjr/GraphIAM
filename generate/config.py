@@ -10,7 +10,7 @@ csv_file = "Users.csv"
 csv_columns = ['empid','firstname','lastname','fullname','userid','department','role','managedby']
 
 csv_vm_file    = 'VMs.csv'
-csv_vm_columns = ['Name','Owner']
+csv_vm_columns = ['name','owner']
 
 #Organization Domain Name
 domain = 'kanakjr.in'

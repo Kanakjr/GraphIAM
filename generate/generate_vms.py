@@ -27,7 +27,7 @@ with open(csv_vm_file,'w') as f1:
     writer=csv.writer(f1, delimiter=',',lineterminator='\n',)
     writer.writerow(csv_vm_columns)
     for i in range(1,fake_vms_count+1):
-        row = ['V'+'{:04b}'.format(i),random.choice(filter_role_userlist)]
+        row = ['V'+'{:05d}'.format(i),random.choice(filter_role_userlist)]
         writer.writerow(row)
 
 print(f'Generated {csv_vm_file} with {fake_vms_count} VMs')
